@@ -1,0 +1,10 @@
+github.com/FedorLap2006/WebFrame v0.0.0-20190202154500-769ea2c98471 h1:ZV4N14TRZsWzJGirDsWraeK5sfGscHMA8o3Rw5D1ywk=
+github.com/FedorLap2006/WebFrame v0.0.0-20190202154500-769ea2c98471/go.mod h1:gyrqd3rJifmeYq9Es1MrBG7/uMJXYiHVp+3c55vilJ4=
+github.com/FedorLap2006/WebFrame v0.0.0-20190312163941-37b2a30ec966 h1:lCXfsHnDRM4siF4bSizt5XGOayCWDvTU54v3sJqW1jE=
+github.com/FedorLap2006/WebFrame v0.0.0-20190312163941-37b2a30ec966/go.mod h1:gyrqd3rJifmeYq9Es1MrBG7/uMJXYiHVp+3c55vilJ4=
+github.com/FedorLap2006/WebFrame v0.0.0-20190312164300-c6d90f02f3ab h1:Ac2di1SXvPtE5VKwtm694CwvNe83LdP6KDWeoCzrR9U=
+github.com/FedorLap2006/WebFrame v0.0.0-20190312164300-c6d90f02f3ab/go.mod h1:gyrqd3rJifmeYq9Es1MrBG7/uMJXYiHVp+3c55vilJ4=
+github.com/FedorLap2006/WebFrame v0.0.0-20190312164604-d1ed3aa2b919 h1:VyePl/phk5YgfdTIc5zIpQ+mUvYCDefW1AXSeEyfx6c=
+github.com/FedorLap2006/WebFrame v0.0.0-20190312164604-d1ed3aa2b919/go.mod h1:gyrqd3rJifmeYq9Es1MrBG7/uMJXYiHVp+3c55vilJ4=
+github.com/gorilla/mux v1.7.0 h1:tOSd0UKHQd6urX6ApfOn4XdBMY6Sh1MfxV3kmaazO+U=
+github.com/gorilla/mux v1.7.0/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
